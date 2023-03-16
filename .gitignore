@@ -1,0 +1,11 @@
+# Ignora la carpeta "node_modules"
+node_modules/
+
+# Ignora todos los archivos .log
+*.log
+
+# Ignora los archivos que empiezan con una tilde (~)
+~*
+
+# Ignora el archivo .env que contiene información sensible
+.env
